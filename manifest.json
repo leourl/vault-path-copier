@@ -1,0 +1,9 @@
+{
+  "id": "vault-path-copier",
+  "name": "Vault Path Copier",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Copy vault file paths with extension from the file explorer context menu and via command hotkey for multi-select.",
+  "author": "Leonardo",
+  "isDesktopOnly": false
+}
